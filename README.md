@@ -1,46 +1,145 @@
-# 常用组件与布局（ArkTS）
+# Travel APP（HarmonyOS）｜中国热门旅游城市推荐系统--南京邮电大学物联网创新实践周
 
-### 简介
 
-HarmonyOS ArkUI提供了丰富多样的UI组件，您可以使用这些组件轻松地编写出更加丰富、漂亮的界面。在本篇Codelab中，您将通过一个简单的购物社交应用示例，学习如何使用常用的基础组件和容器组件。本示例主要包含：“登录”、“首页”、“我的”三个页面。效果图如下：
+基于 **HarmonyOS + ArkTS（ArkUI / Stage 模型）** 开发的旅游信息与行程辅助应用。围绕“城市信息 / 美食景点 / 旅游资讯 / 社区互动 / 个人中心”等核心模块，提供从信息浏览、筛选搜索到互动收藏的完整体验；并扩展酒店、票务与路径规划等功能界面，便于后续接入真实数据与服务接口。
 
-![image](screenshots/device/demo.gif)
+> ✅ **编译环境必须使用：DevEco Studio `devecostudio-windows-3.1.0.501`**  
+> 版本不一致可能导致工程依赖、SDK/模拟器兼容问题或无法运行。
 
-### 相关概念
+---
 
-- [Text](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-basic-components-text-0000001477981201-V3?catalogVersion=V3&ha_linker=eyJ0cyI6MTY5Mjg0NTAyNDQ4NSwiaWQiOiJhMDEwYWRjNDg3N2ZhMWYwMzc0ZTYzNTdlMjk3ZDkzZCJ9)：显示一段文本的组件。
+## 效果预览
 
-- [Image](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-basic-components-image-0000001428061728-V3?catalogVersion=V3)：Image为图片组件，常用于在应用中显示图片。Image支持加载string、[PixelMap](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/js-apis-image-0000001477981401-V3#ZH-CN_TOPIC_0000001523648994__pixelmap7)和[Resource](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-types-0000001477981241-V3#ZH-CN_TOPIC_0000001573928889__resource)类型的数据源，支持png、jpg、bmp、svg和gif类型的图片格式。
+![demo](screenshots/device/demo.gif)
 
-- [TextInput](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-basic-components-textinput-0000001427584864-V3?catalogVersion=V3)：单行文本输入框组件。
+---
 
-- [Button](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-basic-components-button-0000001427584848-V3?catalogVersion=V3)：按钮组件，可快速创建不同样式的按钮。
+## 功能概览（对齐实验报告）
 
-- [LoadingProgress](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-basic-components-loadingprogress-0000001427744812-V3?catalogVersion=V3)：用于显示加载动效的组件。
+### 1）城市信息展示
 
-- [Flex](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-container-flex-0000001427902472-V3?catalogVersion=V3)：以弹性方式布局子组件的容器组件。
+- 首页城市卡片列表 → 点击进入城市详情页
+- 城市详情包含：基础介绍、出行建议（如最佳旅游时间/气候要点等）  
+- 典型交互：列表滚动、卡片点击跳转、详情页分区展示
 
-- [Column](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-container-column-0000001478341157-V3?catalogVersion=V3)：沿垂直方向布局的容器。
+### 2）美食与景点展示
 
-- [Row](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-container-row-0000001478061717-V3?catalogVersion=V3)：沿水平方向布局容器。
+- **美食**：按推荐指数/热度等维度展示，支持进入详情页查看更多信息（名称、人均、推荐店铺/地址等）
+- **景点**：按热度排序，支持分类筛选（如自然景观/人文古迹/亲子等）
+- 典型交互：分类 Tab/筛选、列表排序、详情页信息展开
 
-- [List](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-container-list-0000001477981213-V3?catalogVersion=V3)：列表包含一系列相同宽度的列表项。适合连续、多行呈现同类数据，例如图片和文本。
+### 3）旅游资讯与搜索
 
-- [Swiper](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-container-swiper-0000001427744844-V3?catalogVersion=V3)：滑块视图容器，提供子组件滑动轮播显示的能力。
+- 资讯轮播推荐 + 资讯列表（按发布时间倒序）
+- 支持关键词搜索，提升信息检索效率
+- 可扩展：热度/趋势可视化（如热力图、统计卡片等）
 
-- [Grid](https://developer.harmonyos.com/cn/docs/documentation/doc-references-V3/ts-container-grid-0000001478341161-V3?catalogVersion=V3)：网格容器，由“行”和“列”分割的单元格所组成，通过指定“项目”所在的单元格做出各种各样的布局。
+### 4）社区（UGC 瀑布流）
 
-### 相关权限
+- 瀑布流帖子展示（图文内容）
+- 支持点赞、收藏、发布等互动，形成“浏览—互动—贡献”闭环
 
-不涉及
+### 5）登录/注册
 
-### 使用说明
+- 提供登录与注册入口（实验/演示实现）
+- 账号体系后续可替换为真实鉴权（如账号服务/云端用户体系）
 
-1. 在登录界面输入账号和密码（任意字符），点击登录按钮跳转到应用首页。
-2. 点击底部的Tabs，界面在“首页”和“我的”之间进行切换。
+### 6）扩展模块（界面与交互已完成，等待对接真实数据）
 
-### 约束与限制
+- **酒店预订**：城市选择、日期选择、价格/评分滑块筛选
+- **交通票务**：机票/火车票标签切换、历史联想、日期选择
+- **路径规划**：多策略切换（时间最短/路径最短/最多人走/智能推荐）
+- **个人中心**：订单入口占位、收藏分类与设置项可交互
 
-1. 本示例仅支持标准系统上运行，支持设备：华为手机或运行在DevEco Studio上的华为手机设备模拟器。
-2. 本示例为Stage模型，支持API version 9。
-3. 本示例需要使用DevEco Studio 3.1 Release版本进行编译运行。
+---
+
+## 技术栈与架构
+
+### 技术栈
+
+- **ArkTS / ArkUI（声明式 UI）**
+- **Stage 模型**（API 9 生态）
+- 构建：hvigor（项目内 `hvigorfile.ts` / `hvigor/`）
+
+### 推荐理解方式：MVVM（UI / ViewModel / 数据层）
+
+- **UI 层（页面）**：负责布局、交互、路由跳转与展示（如首页、社区、个人中心等）
+- **ViewModel 层**：负责状态管理、业务逻辑处理与数据装配
+- **数据层**：实体结构（城市/景点/帖子等）与数据源（本地/模拟数据），便于后续替换为网络接口
+
+典型链路：**UI 事件 → ViewModel 处理 → 数据层返回 → 状态更新 → UI 响应式刷新**。
+
+---
+
+## 项目结构（从代码阅读/二次开发角度）
+
+> 具体以仓库实际为准（不同版本目录可能略有差异）
+
+- `entry/`：主模块（页面、资源、数据、路由）
+- `AppScope/`：应用级配置
+- `hvigor/`、`hvigorfile.ts`：构建脚本
+- `screenshots/`：运行截图/演示动图（README 展示）
+
+---
+
+## 快速开始（必须）
+
+### 环境要求
+
+- **DevEco Studio：`devecostudio-windows-3.1.0.501`（强制）**
+- 设备：华为手机真机（开启调试）或 DevEco Studio 模拟器（标准系统）
+
+### 运行步骤
+
+1. 克隆仓库
+
+   ```bash
+   git clone <your_repo_url>
+   ```
+
+2. 用 **DevEco Studio 3.1.0.501** 打开项目根目录
+
+3. 等待依赖同步与索引完成（hvigor 同步）
+
+4. 连接真机或启动模拟器
+
+5. 点击 **Run** 运行
+
+---
+
+## 常用组件与布局（ArkTS / ArkUI）
+
+为了实现报告中的页面布局与交互，本项目会高频使用以下组件/容器（建议按“页面 → 组件”方式学习）：
+
+- **Text**：文本展示（标题、描述、标签、提示等）
+- **Image**：图片/封面展示（城市卡片、帖子图片、轮播图等）
+- **TextInput**：输入框（登录、搜索、筛选条件等）
+- **Button**：操作按钮（登录、收藏、发布、筛选确认等）
+- **List / Grid / Scroll**：列表、网格与滚动容器（城市列表、资讯列表、景点/美食列表）
+- **Tabs**：底部/顶部切换（首页/社区/我的，或分类筛选）
+- **Swiper**：轮播（资讯推荐/Banner）
+- **WaterFlow**：瀑布流布局（社区 UGC 展示）
+- **@State / @Prop / @Link**：状态驱动 UI 更新（响应式交互基础）
+
+> ArkUI 组件官方文档：HarmonyOS Developer 文档中心（Text / Image / TextInput / List / Tabs / Swiper / WaterFlow 等）
+
+---
+
+## 相关权限
+
+不涉及（若后续接入定位/地图/网络请求等能力，需要按 HarmonyOS 权限与能力模型补充）。
+
+---
+
+## 约束与限制
+
+1. 仅支持标准系统运行，设备：华为手机或 DevEco Studio 模拟器。  
+2. Stage 模型（API 9 生态）。  
+3. **必须使用 DevEco Studio `devecostudio-windows-3.1.0.501` 编译运行。**  
+4. 酒店/票务/规划等扩展功能当前以界面与交互为主，真实数据对接可在后续迭代中补齐。  
+
+---
+
+## License
+
+Apache-2.0（见 `LICENSE`）
