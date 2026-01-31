@@ -1,0 +1,12 @@
+{
+  "license": "",
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  },
+  "author": "",
+  "name": "travelApplication",
+  "description": "旅游出行app",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {}
+}

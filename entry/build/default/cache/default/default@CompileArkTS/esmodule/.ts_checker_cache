@@ -1,0 +1,1699 @@
+{
+  "runtimeOS": "HarmonyOS",
+  "sdkInfo": "false:9:3.2.12.5:Release",
+  "fileList": {
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1700989446340.3674,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\LoginPage.ets": {
+      "mtimeMs": 1700983749527.1748,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets": {
+      "mtimeMs": 1701006932041.792,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\CommunityPage.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\CommunityPage.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\scenic.ets": {
+      "mtimeMs": 1700901106000,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets": {
+      "mtimeMs": 1701006499429.6184,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\SPOT.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\scenic.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\SplashPage.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\CommunityPage.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\community\\find.ets"
+      ],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.promptAction.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.router.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets": {
+      "mtimeMs": 1701007389779.5166,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\WaterFlowDataSource.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets": {
+      "mtimeMs": 1700819994000,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\SPOT.ets": {
+      "mtimeMs": 1700898458000,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets": {
+      "mtimeMs": 1700985617289.304,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\SPOT.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\CommunityPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets": {
+      "mtimeMs": 1700983463299.9275,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\SPOT.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\CommunityPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\canvas.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\matrix2d.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\SplashPage.ets": {
+      "mtimeMs": 1700989599922.0337,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.ability.featureAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\ability\\startAbilityParameter.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\app\\context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundle\\applicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundle\\hapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundle\\abilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.bundle.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\bundle\\bundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\ability\\dataAbilityHelper.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\ability\\dataAbilityOperation.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.data.dataAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.data.rdb.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\WaterFlowDataSource.ets": {
+      "mtimeMs": 1700986314043.9988,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\Home.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\CommunityPage.ets": {
+      "mtimeMs": 1700997801392.2783,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\community\\find.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\community\\find.ets": {
+      "mtimeMs": 1701004088563.546,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\component\\PostItem.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\PostEntity.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\CommunityPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\component\\PostItem.ets": {
+      "mtimeMs": 1701005098696.525,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\community\\find.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets": {
+      "mtimeMs": 1701001601232.363,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\PostEntity.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\PostUser.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\community\\find.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\PostEntity.ets": {
+      "mtimeMs": 1701001062545.5762,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\Location.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\PostUser.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\PostUser.ets": {
+      "mtimeMs": 1701000458539.737,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\PostEntity.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\Location.ets": {
+      "mtimeMs": 1701000399914.8323,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\viewmodel\\PostEntity.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\ArkTSComponents\\entry\\src\\main\\ets\\pages\\TicketPage.ets": {
+      "mtimeMs": 1701007169730.0818,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1701239483633.577,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\LoginPage.ets": {
+      "mtimeMs": 1701686288519.0212,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\MainPage.ets": {
+      "mtimeMs": 1701777970365.3838,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Community.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Community.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ScenicPage.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SplashPage.ets": {
+      "mtimeMs": 1701686172126.3257,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\TicketPage.ets": {
+      "mtimeMs": 1701234247464.8174,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Hotel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Plane.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Train.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Travel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\TicketViewModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets": {
+      "mtimeMs": 1701225863317.0566,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\MainPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\CommunityPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SplashPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ScenicPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Community.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Home.ets": {
+      "mtimeMs": 1701780850651.64,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\WaterFlowDataSource.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\MainPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ScenicDetailPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Setting.ets": {
+      "mtimeMs": 1701131304252.3845,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\CommunityPage.ets": {
+      "mtimeMs": 1701131304280.3792,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\find.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets": {
+      "mtimeMs": 1701778688589.3008,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\CommunityPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Community.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\ItemData.ets": {
+      "mtimeMs": 1700983463299.9275,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\CommunityPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\WaterFlowDataSource.ets": {
+      "mtimeMs": 1700986314043.9988,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Home.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\find.ets": {
+      "mtimeMs": 1701135516570.552,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\PostItem.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\CommunityPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Community.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\PostItem.ets": {
+      "mtimeMs": 1701135516560.5532,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets": {
+      "mtimeMs": 1701131304325.3792,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostUser.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\PostEntity.ets": {
+      "mtimeMs": 1701001062545.5762,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\Location.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\PostUser.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\PostUser.ets": {
+      "mtimeMs": 1701000458539.737,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\PostEntity.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\Location.ets": {
+      "mtimeMs": 1701000399914.8323,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\PostEntity.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\TicketViewModel.ets": {
+      "mtimeMs": 1701044720987.837,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Hotel.ets": {
+      "mtimeMs": 1701234601234.2148,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets": {
+      "mtimeMs": 1701236001833.0469,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Hotel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Plane.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Train.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Travel.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Plane.ets": {
+      "mtimeMs": 1701234607696.012,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Train.ets": {
+      "mtimeMs": 1701234604245.4644,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Travel.ets": {
+      "mtimeMs": 1701234590083.3975,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ScenicPage.ets": {
+      "mtimeMs": 1701776847607.0725,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\ScenicViewModel.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets": {
+      "mtimeMs": 1700983463299.9275,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Home.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\CommunityPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Community.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets": {
+      "mtimeMs": 1701131314963.511,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\Location.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostUser.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostUser.ets": {
+      "mtimeMs": 1701000458539.737,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\Location.ets": {
+      "mtimeMs": 1701000399914.8323,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\ScenicViewModel.ets": {
+      "mtimeMs": 1701156290342.4119,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ScenicPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Community.ets": {
+      "mtimeMs": 1701134911370.8052,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\community\\Concerned.ets": {
+      "mtimeMs": 1701135452759.3618,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\PostItem.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Community.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SearchResultPage.ets": {
+      "mtimeMs": 1701223326715.8093,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\SmallScenicCard.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\search\\Location.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\SearchResultCard.ets": {
+      "mtimeMs": 1701218123682.7778,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SearchResultPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\search\\Location.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\search\\Location.ets": {
+      "mtimeMs": 1701223058744.0896,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\SearchResultCard.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SearchResultPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SearchPage.ets": {
+      "mtimeMs": 1701219984027.5625,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\SearchViewModel.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\SearchTabItemData.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\SmallScenicCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\SearchViewModel.ets": {
+      "mtimeMs": 1701176362111.89,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\SearchTabItemData.ets"
+      ],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SearchPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\entity\\SearchTabItemData.ets": {
+      "mtimeMs": 1701173257726.9155,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SearchPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\SearchViewModel.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\SmallScenicCard.ets": {
+      "mtimeMs": 1701216761941.4495,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SearchPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\SearchResultPage.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\search\\Location.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ScenicDetailPage.ets": {
+      "mtimeMs": 1701222983022.8076,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\TicketCard.ets",
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\Home.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\TicketCard.ets": {
+      "mtimeMs": 1701222926325.8635,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ScenicDetailPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\HotValuePage.ets": {
+      "mtimeMs": 1701785476290.0564,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.abilityAccessCtrl.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.systemDateTime.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\application\\AbilityStageContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\application\\ExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\application\\FormExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\common\\util\\date.ets": {
+      "mtimeMs": 1701231945704.1467,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\view\\ticket\\Hotel.ets"
+      ],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.geoLocationManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\@ohos.wantAgent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\wantAgent\\wantAgentInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\applications\\huawei\\sdk\\openharmony\\9\\ets\\api\\wantAgent\\triggerInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ArticleDetailPage.ets": {
+      "mtimeMs": 1701783203106.8762,
+      "children": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\ArticleDetailViewModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\viewmodel\\ArticleDetailViewModel.ets": {
+      "mtimeMs": 1701171555545.2327,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\ArticleDetailPage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\component\\CustomDialog.ets": {
+      "mtimeMs": 1701784423803.3833,
+      "children": [],
+      "parent": [
+        "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\HotValuePage.ets"
+      ],
+      "error": false
+    },
+    "F:\\codes\\frontend\\huawei\\me\\travelApplication\\entry\\src\\main\\ets\\pages\\FeedBackPage.ets": {
+      "mtimeMs": 1701785102422.9495,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\entryability\\EntryAbility.ts": {
+      "mtimeMs": 1760853546752.3408,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\LoginPage.ets": {
+      "mtimeMs": 1760775586319.003,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\MainPage.ets": {
+      "mtimeMs": 1760775586322.9192,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Home.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Community.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Community.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ScenicPage.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SplashPage.ets": {
+      "mtimeMs": 1760840134026.3193,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\TicketPage.ets": {
+      "mtimeMs": 1760775586332.8943,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Hotel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Plane.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Train.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Travel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\TicketViewModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ScenicPage.ets": {
+      "mtimeMs": 1760775586325.8828,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\ScenicViewModel.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SearchPage.ets": {
+      "mtimeMs": 1760775586327.8784,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\SearchViewModel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\SearchTabItemData.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\SmallScenicCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SearchResultPage.ets": {
+      "mtimeMs": 1760775586329.8801,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\SmallScenicCard.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\search\\Location.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ScenicDetailPage.ets": {
+      "mtimeMs": 1760775586323.8875,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\TicketCard.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Home.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\HotValuePage.ets": {
+      "mtimeMs": 1760775586316.8557,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ArticleDetailPage.ets": {
+      "mtimeMs": 1760853954241.1594,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\ArticleDetailViewModel.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\FeedBackPage.ets": {
+      "mtimeMs": 1760775586314.9084,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.app.ability.common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\application\\AbilityStageContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\application\\ExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\application\\FormExtensionContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\ability\\dataAbilityHelper.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\ability\\dataAbilityOperation.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.ability.featureAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\ability\\startAbilityParameter.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\app\\context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundle\\applicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundle\\hapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundle\\abilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.bundle.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\bundle\\bundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.dataAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.data.rdb.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.systemDateTime.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.geoLocationManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.wantAgent.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\wantAgent\\wantAgentInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\wantAgent\\triggerInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.abilityAccessCtrl.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets": {
+      "mtimeMs": 1760775586279.7803,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\LoginPage.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\MainPage.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Home.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Community.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\Concerned.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ScenicPage.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SplashPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.promptAction.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.router.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Home.ets": {
+      "mtimeMs": 1760842856535.635,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\WaterFlowDataSource.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\MainPage.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ScenicDetailPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Setting.ets": {
+      "mtimeMs": 1760775586348.146,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Community.ets": {
+      "mtimeMs": 1760775586341.8772,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\MainPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets": {
+      "mtimeMs": 1760853837738.479,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Home.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Community.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\ItemData.ets": {
+      "mtimeMs": 1760841369468.3398,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Home.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\MainViewModel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Setting.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Community.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\WaterFlowDataSource.ets": {
+      "mtimeMs": 1760775586281.7808,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Home.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\find.ets": {
+      "mtimeMs": 1760852765951.063,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\PostItem.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Community.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\Concerned.ets": {
+      "mtimeMs": 1760775586356.4314,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\common\\constants\\CommonConstants.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\PostItem.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\Community.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\PostItem.ets": {
+      "mtimeMs": 1760853482925.015,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets": {
+      "mtimeMs": 1760853772797.5056,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostUser.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets": {
+      "mtimeMs": 1760775586421.3193,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\Location.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostUser.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\find.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\community\\Concerned.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostUser.ets": {
+      "mtimeMs": 1760775586423.295,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\CommunityViewModel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\Location.ets": {
+      "mtimeMs": 1760775586419.303,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\PostEntity.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\ScenicViewModel.ets": {
+      "mtimeMs": 1760775586404.296,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ScenicPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Hotel.ets": {
+      "mtimeMs": 1760775586378.9304,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Plane.ets": {
+      "mtimeMs": 1760775586379.9263,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Train.ets": {
+      "mtimeMs": 1760775586383.2866,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Travel.ets": {
+      "mtimeMs": 1760775586385.3057,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\TicketViewModel.ets": {
+      "mtimeMs": 1760775586409.295,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\TicketPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\BuyCard.ets": {
+      "mtimeMs": 1760775586375.15,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Hotel.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Plane.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Train.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\ticket\\Travel.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\SearchViewModel.ets": {
+      "mtimeMs": 1760775586407.307,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\SearchTabItemData.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SearchPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\entity\\SearchTabItemData.ets": {
+      "mtimeMs": 1760775586427.2964,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SearchPage.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\SearchViewModel.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\SmallScenicCard.ets": {
+      "mtimeMs": 1760775586293.781,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SearchPage.ets",
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SearchResultPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\search\\Location.ets": {
+      "mtimeMs": 1760775586367.385,
+      "children": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\SearchResultCard.ets"
+      ],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\SearchResultPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\SearchResultCard.ets": {
+      "mtimeMs": 1760775586292.7808,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\view\\search\\Location.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\component\\TicketCard.ets": {
+      "mtimeMs": 1760775586296.788,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ScenicDetailPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\viewmodel\\ArticleDetailViewModel.ets": {
+      "mtimeMs": 1760839831171.8884,
+      "children": [],
+      "parent": [
+        "E:\\GitHub\\huawei_travel_app-master\\huawei_travel_app-master\\entry\\src\\main\\ets\\pages\\ArticleDetailPage.ets"
+      ],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\canvas.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "E:\\devecostudio-windows-3.1.0.501\\Sdk\\openharmony\\9\\ets\\build-tools\\ets-loader\\declarations\\matrix2d.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    }
+  }
+}
